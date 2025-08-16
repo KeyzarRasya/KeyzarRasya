@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keyzar Rasya Athallah, i am a Backend Engineer and IoT enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Keyzar Rasya Athallah, i am a Software Engineer and IoT enthusiast</h2>
 
 ###
 
